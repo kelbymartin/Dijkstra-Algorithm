@@ -1,10 +1,7 @@
 import java.util.Arrays;
 
 /*
- * Creates shortest path from starting vertex
- * Got some help from:
- * Credit: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
- * Helped with Adjacency Matrix and logic of "//check dij alg part"
+ * Creates shortest path from starting vertex (Dijkstra's Algorithm)
  */
 
 public class Dijsktra {
